@@ -42,7 +42,8 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 6.	Close the doors of the 3d printer.
 7.	Open the file from the USB storage and select the Print option.
 ## Output:
-![Screenshot (78)](https://github.com/ROHITJAIND/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707073/c391bc60-2943-4fb4-9f11-98690fa3196a)
+![8](https://github.com/KRISHNARAJ-D/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119559695/3df10275-10cb-4165-aa8e-dbf833874208)
+
 
 ## Name: KRISHNARAJ D
 ## Register Number: 212222230070
